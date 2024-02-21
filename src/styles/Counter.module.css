@@ -157,3 +157,14 @@ label {
   font-size: inherit;
   -webkit-tap-highlight-color: transparent;
 }
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+}
+a {
+  text-decoration: none;
+}
